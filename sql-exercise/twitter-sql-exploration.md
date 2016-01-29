@@ -47,3 +47,15 @@ FROM
 ) AS count_vines
 
 12227 => http://vine.co/v/b1732mppTQD
+
+
+
+1. How many tweets?
+2. How many VINE URLs? Unique VINE URLs?
+3. How many tweets are original (e.g., not retweets)?
+4. Among the retweets, how many times a tweet has been retweeted in average?
+5. How many tweets for each day? In average?
+6. Day of the week with highest volume of traffic?
+7. Which are the most popular hashtags?
+8. Rank the VINE URLs by popularity (e.g., no. of retweets)
+9. Add the link of the 3 most popular VINE videos in your database (that still have an existing URL)
